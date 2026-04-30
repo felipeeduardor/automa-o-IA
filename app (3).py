@@ -5,7 +5,7 @@ import plotly.express as px
 from sklearn.cluster import KMeans
 import numpy as np
 
-st.set_page_config(page_title="Altomoção-IA", layout="wide")
+st.set_page_config(page_title="Automação-IA", layout="wide")
 
 st.markdown("""
     <div style="
@@ -18,7 +18,7 @@ st.markdown("""
     ">
         <div style="font-size: 56px; margin-bottom: 10px;">🤖📊</div>
         <h1 style="color: #00d4ff; font-size: 2.4em; margin: 0 0 8px 0; font-weight: 800; letter-spacing: 1px;">
-            Altomoção-IA
+            Automação-IA
         </h1>
         <p style="color: #a0c4d8; font-size: 1.1em; margin: 0;">
             Automação Inteligente de Análise de Dados com Machine Learning
